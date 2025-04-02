@@ -46,6 +46,9 @@ The pipeline follows a structured data flow based on the **Medallion Architectur
 🏛️ The Gold layer data is loaded into **Azure Synapse Analytics** for analytical querying.
 📊 **Power BI** is used to create dynamic dashboards for business intelligence.
 
+![NetflixDataArch](https://github.com/user-attachments/assets/f4a8072d-1bcb-48dc-b067-6b63ad506048)
+
+
 ---
 
 ## 🛠️ Technology Stack
