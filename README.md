@@ -7,7 +7,7 @@
 ---
 
 ## 📌 Project Overview
-This project implements a modern data pipeline leveraging Azure Data Services, Databricks, and Delta Live Tables to enable incremental data processing, transformation, and reporting. The architecture follows the **Medallion Architecture**, ensuring reliability, scalability, and efficient data processing.
+This project implements an end to end data engineering workflow leveraging Azure Data Services, Databricks, and Delta Live Tables to enable incremental data processing, transformation, and reporting. The architecture follows the **Medallion Architecture**, ensuring reliability, scalability, and efficient data processing.
 
 ---
 
