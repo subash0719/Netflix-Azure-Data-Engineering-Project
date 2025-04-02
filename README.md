@@ -23,7 +23,7 @@ This data pipeline is designed to:
 
 ---
 
-## 🏗️ Solution Overview / Architecture
+## 🏗️ Solution Overview 
 The pipeline follows a structured data flow based on the **Medallion Architecture**:
 
 ### 🔹 Data Sources
@@ -60,7 +60,7 @@ The pipeline follows a structured data flow based on the **Medallion Architectur
 
 ---
 
-## 📝 Instructions / Getting Started
+## 📝 Getting Started
 To replicate this pipeline, follow these steps:
 
 1. **Set Up Data Source:** Configure HTTP and file-based data sources.
@@ -84,5 +84,5 @@ To replicate this pipeline, follow these steps:
 ## 🎯 Conclusion
 This project delivers an advanced data pipeline using Azure services and **Delta Live Tables**, following the **Medallion Architecture** for structured data processing. With **Synapse Analytics** and **Power BI**, the solution ensures scalable and high-performance analytics. 🚀
 
-Feel free to contribute or modify the pipeline to fit your requirements!
+
 
