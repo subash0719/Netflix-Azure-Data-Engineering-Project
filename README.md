@@ -47,6 +47,7 @@ The pipeline follows a structured data flow based on the **Medallion Architectur
 📊 **Power BI** is used to create dynamic dashboards for business intelligence.
 
 ---
+## 📋 Data Architecture
 ![NetflixDataArch](https://github.com/user-attachments/assets/f4a8072d-1bcb-48dc-b067-6b63ad506048)
 
 
